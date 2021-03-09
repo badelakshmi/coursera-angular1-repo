@@ -1,2 +1,2 @@
 # coursera-angular1-repo
-test report for angulat learning
+test report for angular learning
